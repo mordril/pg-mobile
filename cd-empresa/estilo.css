@@ -1,0 +1,40 @@
+*{ background-color:lightblue;
+    text-align: center;
+}
+
+form,label{
+font-style: italic;
+font-family: 'Courier New', Courier, monospace;
+font-size: larger;
+display: block;
+padding: 10px;
+}
+button{
+background-color: white;
+border-radius: 30px;
+
+}
+input{
+background-color: white;
+border-radius: 10px;
+box-shadow: 50px;
+display: inline-block;
+padding-left: 90px;
+}
+p{
+    font-size: 36px;
+    font-weight: bold;
+    color: #333;
+text-align:left 
+
+}
+form{
+    width: 270px;
+margin: 28px;
+}
+label{
+    text-align: left;
+padding: 10px;
+padding-left: 1%;
+display: block;
+}
